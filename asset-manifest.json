@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/pallet-form-testing/static/css/main.9d4e5e94.chunk.css",
-    "main.js": "/pallet-form-testing/static/js/main.11c1525c.chunk.js",
-    "main.js.map": "/pallet-form-testing/static/js/main.11c1525c.chunk.js.map",
+    "main.js": "/pallet-form-testing/static/js/main.56141a40.chunk.js",
+    "main.js.map": "/pallet-form-testing/static/js/main.56141a40.chunk.js.map",
     "runtime-main.js": "/pallet-form-testing/static/js/runtime-main.0ac1f388.js",
     "runtime-main.js.map": "/pallet-form-testing/static/js/runtime-main.0ac1f388.js.map",
     "static/css/2.679831fc.chunk.css": "/pallet-form-testing/static/css/2.679831fc.chunk.css",
-    "static/js/2.c319dcbd.chunk.js": "/pallet-form-testing/static/js/2.c319dcbd.chunk.js",
-    "static/js/2.c319dcbd.chunk.js.map": "/pallet-form-testing/static/js/2.c319dcbd.chunk.js.map",
+    "static/js/2.3b18ae03.chunk.js": "/pallet-form-testing/static/js/2.3b18ae03.chunk.js",
+    "static/js/2.3b18ae03.chunk.js.map": "/pallet-form-testing/static/js/2.3b18ae03.chunk.js.map",
     "index.html": "/pallet-form-testing/index.html",
     "static/css/2.679831fc.chunk.css.map": "/pallet-form-testing/static/css/2.679831fc.chunk.css.map",
     "static/css/main.9d4e5e94.chunk.css.map": "/pallet-form-testing/static/css/main.9d4e5e94.chunk.css.map",
-    "static/js/2.c319dcbd.chunk.js.LICENSE.txt": "/pallet-form-testing/static/js/2.c319dcbd.chunk.js.LICENSE.txt"
+    "static/js/2.3b18ae03.chunk.js.LICENSE.txt": "/pallet-form-testing/static/js/2.3b18ae03.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0ac1f388.js",
     "static/css/2.679831fc.chunk.css",
-    "static/js/2.c319dcbd.chunk.js",
+    "static/js/2.3b18ae03.chunk.js",
     "static/css/main.9d4e5e94.chunk.css",
-    "static/js/main.11c1525c.chunk.js"
+    "static/js/main.56141a40.chunk.js"
   ]
 }
