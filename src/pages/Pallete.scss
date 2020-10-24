@@ -1,0 +1,44 @@
+
+.page-pallete {
+  display: flex;
+  flex-direction: column;
+  width: 31%;
+  height: 100%;
+  margin-right: 12px;
+
+  .colors {
+    height: 60%;
+    padding: 15px 26px;
+    display: grid;
+    grid-gap: 15px;
+    grid-template-rows: repeat(auto-fill, 54px);
+    grid-template-columns: repeat(auto-fit, 54px);
+
+    overflow-y: auto;
+    .color-item {
+      width: 54px;
+      height: 54px;
+      border-radius: 5px;
+      background-color: #1F2223;
+      position: relative;
+
+      & > .delete-icon {
+        position: absolute;
+        cursor: pointer;
+        top: 0;
+        right: 0;
+        transform: translate(30%, -35%);
+        z-index: 50;
+      }
+    }
+
+  }
+
+  .pickColor {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    position: relative;
+  }
+}
